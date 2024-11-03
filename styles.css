@@ -16,7 +16,6 @@
 }
 
 h1 {
-    width: 800px;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 32px;
@@ -24,6 +23,8 @@ h1 {
 }
 
 h2 {
+    width: 800px;
+    text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 24px;
     margin: auto;
