@@ -66,9 +66,15 @@ body {
     align-items: center;
 }
 
-.gallery img {
-    width: 300px;
-    height: 300px;
-    object-fit: cover;
+.icon {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-even;
+    align-items: center;
+    padding: 10px;
 }
 
+.social-icon {
+    width: 40px;
+    margin: 5px;
+}
