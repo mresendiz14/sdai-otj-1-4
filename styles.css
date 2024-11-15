@@ -58,7 +58,7 @@ body {
     background-image: linear-gradient(to right, white , hotpink);
 }
 
-/* Create container for gallery */
+
 .gallery {
     display: flex;
     flex-wrap: wrap;
